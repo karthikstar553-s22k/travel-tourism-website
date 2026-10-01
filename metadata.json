@@ -1,0 +1,6 @@
+{
+  "name": "Incredible India Travel - Advanced GPS-Enabled Travel Platform",
+  "description": "Your GPS-powered gateway to exploring India with enterprise-level precision and comprehensive mapping features.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
